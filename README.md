@@ -1,7 +1,8 @@
 # machine-learning-projects
 AI and ML projects and applications developed to learn various implementations
 
-#### **A machine learning *journey* in predicting battery cycle life for mission critical applications** (takes 1 minute to open)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SergiuIliev/machine-learning-projects/blob/master/Battery_Lifetime_Forecast.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SergiuIliev/machine-learning-projects/blob/master/Battery_Lifetime_Forecast.ipynb)
+#### **A machine learning *journey* in predicting battery cycle life for mission critical applications** (takes 1 minute to open) 
 
 `*Goal*: Predicting Modern Battery Lifetime using Machine Learning - quantitative and and classification forecasting exploration`
 - statistical data analysis (One-Way ANOVA, ANOVA Ordinary Least Squares, and the Shapiro-Wilk, Levene, Turnkey tests)
